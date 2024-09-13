@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=songpolr&show_icons=true&locale=en" alt="songpolr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=songpolr&" alt="songpolr" /></p>
+
+<h3 align="left">LeetCode's Activities:</h3>
+![](https://leetcard.jacoblin.cool/songpol_r?border=0&radius=20&ext=activity)
