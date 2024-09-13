@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=songpolr&" alt="songpolr" /></p>
 
-<h3 align="left">LeetCode's Activities:</h3>
+### Leetcode's Activities:
 ![](https://leetcard.jacoblin.cool/songpol_r?border=0&radius=20&ext=activity)
