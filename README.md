@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=songpolr&label=Profile%20views&color=0e75b6&style=flat" alt="songpolr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=songpolr" alt="songpolr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SongpolR&theme=discord" alt="songpolr" /></a>
+</p>
 
-- 🔭 I’m currently working on [Coinranking](https://github.com/SongpolR/Coinranking)
-
-- 🌱 I’m currently learning **Flutter, Vue.js**
+- 🌱 I’m currently learning **Everything!**
 
 - 📫 How to reach me **songpol.rungsawang@gmail.com**
 
