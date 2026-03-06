@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=songpolr&label=Profile%20views&color=0e75b6&style=flat" alt="songpolr" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy-fork-two.vercel.app/?username=SongpolR"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=SongpolR&theme=discord" alt="songpolr" /></a>
-</p>
+[![trophy](https://trophy.ryglcloud.net/?username=SongpolR)](https://trophy.ryglcloud.net/?username=SongpolR)
 
 - 🌱 I’m currently learning **Everything!**
 
