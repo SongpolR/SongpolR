@@ -27,7 +27,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/songpol-rungsawang" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -46,7 +46,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
